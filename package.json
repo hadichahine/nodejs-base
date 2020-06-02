@@ -1,3 +1,6 @@
 {
-  "name": "nodejs-base-sample"
+  "name": "nodejs-base-sample",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
 }
