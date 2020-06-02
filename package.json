@@ -1,5 +1,8 @@
 {
   "name": "nodejs-base-sample",
+  "scripts": {
+    "test": "npx jest tests/"
+  },
   "devDependencies": {
     "jest": "^26.0.1"
   }
